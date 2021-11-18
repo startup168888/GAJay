@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jay-realtime-ga",
+  "private_key_id": "fad1cd6ca697d307874862224befbd179f4ed983",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDyuiuJV5ku4xAA\nKVO7QOWrCJNtQeHuCo/xysHmoSvye5GK8QF/KYYiX+d0V1KAKEVVw9AbF+W+ks61\n+fSqDMRpt8T+H92dwW1KP4htNjlapXcLEIfNqgPeBE/1etpAod90XB1+6WsNVBMp\nWgOQ5v7YEaQE1zqT4GdztUlgmFtRV+MEajYYQ6hGtANrl9zq5Se4MMdfzWCGPGoz\nGFr2HjuAj0qqwFt/Y1+I+usLLK2BGSIOeQvxxSCvCF0v5vXK+rzsh8lRxmk1di73\nbIhQ3eHCNSHc9Vhrc8PjI6hjDU1vUyhUYtrsSMfCV/qhHb5j1ABSgCUiRdCInEp8\nQNwb7/f9AgMBAAECggEAAdFw+j5JbvQtDmgNpDVU79/u3sTwdzLlp7pMxoUsvTKK\nWtlgTGTYVN4vPFj1GYtAeoDh4hOrpft9u344t3D3pBHhn14UvMkSOc0NB0H+a8mA\nGt/P7Jnz6naEzmie3uVETuy4g3CMwgfmfT5OQ+6yOC/o1xwKzvwoBwVaHEE35rDE\nNEjH3tIJeN+mvgiCKxY02ol30EYnypTeEkN6aEVpu1sUZjA1K8+SRY2PHbfGhA9q\nogj021F9Tph40BP4CzTvKoQHZqjNMihyuhiEmwmmwLTQu0AFnSL6c3TdWcfK3Se2\nptKYEk+NM76sBeAVzdEvgRDqnp1oddq/RU8oCZiW/wKBgQD9628tFjETp5QUAI1o\n2aqH5yA5D3kGkv0MPNiLtYAFbydMeGpfl+J3kHYn+21KgE2RkqmVAxYolHwfD5Br\nkM5JgQ0AzNOFatdBqFU1K9vwc9npn0XntE0aeHNTsluH50aNoM0VL6rnA+BE2ZT+\nZ5YpKRtGHrc53dsUJ3+4pZEo2wKBgQD0t0LQ5SA/WiveektGIF2LCeVZnwnmhmG0\nq3ENs4tHjeFQtpUbBxVvmRHXaWV2zRk3zaNMcahv8z0GF5Ymh+Mks2VXXKLdPeZG\nW1KeGx8mrTtw8e/c/6Rzr1xrTKZhRqqCHtT67SfOO6OVlCm+u4esKfT3dJoTApHm\nW2pWiomuBwKBgAY09RjDDBwQ4pvCj7Jab8K2saDzcd/pQ+pCqoBvxVtcpjdGUkNX\n8R8/FsRPbxJ9JGhEj4Sm+KmxR39y3/LhLUm6r9ivKRR/0hc2yC5ujgfIrTD6xbiu\nPZxCCX+oQniF/MGFhr3X1nOjMp48O1okqhUDfjkukwgFFk/dz09yLKQ1AoGAL+sm\nwULskps0leb6kGvMBWrVpzv2M1bDER61D4rFzighI63s+pLjhqvBi53OyXmV45B3\n1oM3CVzm6Sd7NmZLeydJw9aW6Z2yVrqRLfZ/nhIz3oTxhCPm7uQ6w6QJvGibAMnK\nyKvhrIePG74cgoW0Jmk816vUc76AFUx3QST1mscCgYBcz5GpKTKwLxfn6w17fJZP\nx0K/QxnU0DOWSPtYzh1wpfbEw4npwEXi5Khiqfn9amZBr9OvN7onWwU6HN5gW3Ws\nox7/l8W2/LtVB6Xax0cJFprRRvGbBjaVT/PCs2H7a2lqiBKp/+/6fKBscMe42zbH\nYevLBkpJlV4manxNwQ4DMA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jay-realtime-ga@jay-realtime-ga.iam.gserviceaccount.com",
+  "client_id": "101657582940368311249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jay-realtime-ga%40jay-realtime-ga.iam.gserviceaccount.com"
+}
